@@ -1,0 +1,30 @@
+<book>
+    <name>book aaa</name>
+    <pagenum>222</pagenum>
+    <catalog>
+        <chapter>
+            <index>1</index>
+            <text>aaa</text>
+            <startpage>1</startpage>
+            <state>y</state>
+        </chapter>
+        <chapter>
+            <index>1.1</index>
+            <text>aaa.aaa</text>
+            <startpage>11</startpage>
+            <state>y</state>
+        </chapter>
+        <chapter>
+            <index>1.2</index>
+            <text>aaa.bbb</text>
+            <startpage>22</startpage>
+            <state>n</state>
+        </chapter>
+        <chapter>
+            <index>2</index>
+            <text>bbb</text>
+            <startpage>44</startpage>
+            <state>n</state>
+        </chapter>
+    </catalog>
+</book>
