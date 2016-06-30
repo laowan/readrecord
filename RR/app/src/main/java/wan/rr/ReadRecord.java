@@ -1,4 +1,6 @@
-public class ReadRecord 
+package wan.rr;
+
+public class ReadRecord
 {
     public static void main(String argv[]) 
     {

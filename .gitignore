@@ -1,0 +1,15 @@
+RR/.gradle
+RR/.idea
+RR/build
+RR/gradle
+RR/gradle.properties
+RR/build.gradle
+RR/gradlew
+RR/gradlew.bat
+RR/settings.gradle
+RR/app/proguard-rules.pro
+RR/app/build.gradle
+RR/app/.gitignore
+RR/.gitignore
+RR/app/src/androidTest
+RR/app/src/test
